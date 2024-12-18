@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E271" />
+          <option value="E225" />
+          <option value="E262" />
+          <option value="E231" />
+          <option value="E261" />
+          <option value="E402" />
+          <option value="E303" />
+          <option value="W391" />
+          <option value="W292" />
+          <option value="E211" />
+          <option value="E265" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="keras.api._v2.keras.preprocessing.img_to_array" />
+          <option value="keras.api._v2.keras.preprocessing.load_img" />
+          <option value="MTCNN" />
+          <option value="cv2.imread" />
+          <option value="cv2.imshow" />
+          <option value="cv2.waitKey" />
+          <option value="cv2.waitkey" />
+          <option value="mtcnnimport" />
+          <option value="Image" />
+          <option value="list.shape" />
+          <option value="list.np" />
+          <option value="list.Shape" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
